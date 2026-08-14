@@ -44,3 +44,19 @@ public:
         "VS Code"
     };
 };
+
+<h1 align="center">Hello Coders 👋</h1>
+
+## 📊 Top Languages by Repo
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=dark&hide_border=true" />
+## 👩‍💻 About Me
+
+- 🎓 Artificial Intelligence Student
+- 💻 C++ Programmer
+- 🐍 Python Programmer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🧠 Passionate about Problem Solving
+## 🔥 Coding Streak
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
