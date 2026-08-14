@@ -44,3 +44,13 @@ public:
         "VS Code"
     };
 };
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=reemhany447&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=70a5fd" width="32.5%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemhany447&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" width="32.5%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=reemhany447&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&custom_title=AI%20Student" width="32.5%">
+
+</div>
