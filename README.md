@@ -44,19 +44,3 @@ public:
         "VS Code"
     };
 };
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reemhany447&show_icons=true)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reemhany447&layout=compact)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=reemhany447)
-
-</div>
