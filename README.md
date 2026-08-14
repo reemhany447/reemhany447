@@ -4,7 +4,7 @@
 
 ### 🎓 Artificial Intelligence Student | 💻 Programmer | 🤖 AI Enthusiast
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="55%"/>
+<h2>Hello Coders 👋</h2>
 
 </div>
 
