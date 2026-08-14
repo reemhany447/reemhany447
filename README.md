@@ -45,16 +45,3 @@ public:
     };
 };
 
-<div align="center">
-
-<a href="https://github.com/reemhany447">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reemhany447&theme=tokyonight" width="32.5%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reemhany447&theme=tokyonight" width="32.5%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reemhany447&theme=tokyonight" width="32.5%">
-
-</a>
-
-</div>
