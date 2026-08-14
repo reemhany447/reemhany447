@@ -47,10 +47,16 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=reemhany447&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemhany447&layout=donut&theme=tokyonight&hide_border=true" width="40%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reemhany447&show_icons=true)
 
-<img src="https://streak-stats.demolab.com?user=reemhany447&theme=tokyonight&hide_border=true" width="48%">
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reemhany447&layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=reemhany447)
 
 </div>
