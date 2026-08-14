@@ -54,3 +54,13 @@ public:
 <img src="https://github-readme-stats.vercel.app/api?username=reemhany447&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&custom_title=AI%20Student" width="32.5%">
 
 </div>
+
+<div align="center">
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Student-6C63FF?style=for-the-badge&logo=robot&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-Student-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
